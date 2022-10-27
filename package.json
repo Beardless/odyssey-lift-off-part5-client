@@ -15,8 +15,7 @@
     "graphql": "^15.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-emotion": "^10.0.0",
-
+    "react-emotion": "^10.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -48,9 +47,9 @@
     "react-markdown": "^6.0.2",
     "react-player": "^2.6.0"
   },
-  "engines":{
-    "npm":"8.5.0"
-   },
+  "engines": {
+    "npm": "8.5.0"
+  },
   "main": "src/index.js",
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT"
